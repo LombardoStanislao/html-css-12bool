@@ -13,6 +13,7 @@
 [class*="col-"] {
   float: left;
   height: 20px;
+  /* background-color: coral; */
 }
 
 .container::after {
